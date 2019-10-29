@@ -13,4 +13,4 @@ need to files for execution of a statement "python manage.py runserver 0.0.0.0:8
 
 you can find those files at https://github.com/leeseohyeon21/djangoWeb
 
-Download all of files in that site
+Download all of files in that site.
